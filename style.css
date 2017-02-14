@@ -1,0 +1,14 @@
+#container{
+  width:100%:
+}
+
+#buttons{
+  margin:30px 0;
+  display: flex;
+  justify-content: center;
+}
+#buttons i{
+  padding: 0 5px;
+  cursor:pointer;
+  color:#FF7896;
+}
